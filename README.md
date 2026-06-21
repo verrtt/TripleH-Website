@@ -1,1 +1,2 @@
 # TripleH-Website
+Hostinger-generated
